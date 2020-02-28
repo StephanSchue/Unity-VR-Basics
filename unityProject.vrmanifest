@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.360detectiv.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Projects\\360-Detectiv\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "360-Detectiv [Testing]"
+        }
+      }
+    }
+  ]
+}
